@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    margin-top: 55px;
+}
+
+h1{
+    color: rgb(239, 138, 246);
+    font-size: 46px;
+}
+
+p{
+    font-size: 22px;
+    color: rgb(173, 240, 85);
+}
+
+button{
+    font-size: 22px;
+    padding: 10px 20px;
+    background-color: rgb(241, 145, 50);
+    margin-top: 23px;
+}
